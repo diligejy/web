@@ -1,0 +1,9 @@
+#div_box{
+    width: 500px;
+    height: 400px;
+    background-color: blue;
+    border: 10px solid black;
+    border-radius: 10px;
+    background-image: url(./img/analytics.jpg);
+    background-size: 500px 400px;
+}
