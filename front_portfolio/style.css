@@ -1,9 +1,12 @@
-#div_box{
-    width: 500px;
-    height: 400px;
-    background-color: blue;
-    border: 10px solid black;
-    border-radius: 10px;
-    background-image: url(./img/analytics.jpg);
-    background-size: 500px 400px;
+p{
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    line-height: 3;
+    letter-spacing: -2px;
+    -webkit-text-stroke: 1px #000;
+    font-family: 'Noto Sans KR', sans-serif;
+    
 }
